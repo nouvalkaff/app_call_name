@@ -7,5 +7,5 @@ import (
 )
 
 func main() {
-	fmt.Println(go_call_name.Call_Name())
+	fmt.Println(go_call_name.CallName("Mahjong"))
 }
